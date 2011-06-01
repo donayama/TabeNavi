@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RestaurantInfo>
+<NumOfResult>123</NumOfResult> 
+<Item>
+<Rcd>13020741</Rcd>
+<RestaurantName>立ち飲み処 うけもち</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13020741/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13020741/</TabelogMobileUrl>
+<TotalScore>3.76</TotalScore>
+<TasteScore>3.65</TasteScore>
+<ServiceScore>3.26</ServiceScore>
+<MoodScore>3.4</MoodScore>
+<Situation>友人・同僚と、一人で</Situation>
+<DinnerPrice>￥1,000 ～￥1,999</DinnerPrice>
+<LunchPrice></LunchPrice>
+<Category>立ち飲み居酒屋・バー</Category>
+<Station>水道橋</Station>
+<Address>千代田区三崎町2-15-2 </Address>
+<Tel>03-3234-5664</Tel>
+<BusinessHours>17:00～23:00</BusinessHours>
+<Holiday>土曜・日曜・祝日</Holiday>
+<Latitude>35.7008114904229</Latitude>
+<Longitude>139.753026462278</Longitude>
+</Item>
+<Item>
+<Rcd>13000222</Rcd>
+<RestaurantName>焼肉 京城 水道橋店</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13000222/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13000222/</TabelogMobileUrl>
+<TotalScore>3.74</TotalScore>
+<TasteScore>3.92</TasteScore>
+<ServiceScore>2.99</ServiceScore>
+<MoodScore>3.02</MoodScore>
+<Situation>友人・同僚と</Situation>
+<DinnerPrice>￥6,000 ～￥7,999</DinnerPrice>
+<LunchPrice></LunchPrice>
+<Category>焼肉、ホルモン</Category>
+<Station>水道橋</Station>
+<Address>千代田区三崎町2-10-3 </Address>
+<Tel>03-3230-2921</Tel>
+<BusinessHours>17:00～翌1:00</BusinessHours>
+<Holiday>年末年始・お盆</Holiday>
+<Latitude>35.7013372847017</Latitude>
+<Longitude>139.754010245257</Longitude>
+</Item>
+<Item>
+<Rcd>13006525</Rcd>
+<RestaurantName>I-Kousya</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13006525/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13006525/</TabelogMobileUrl>
+<TotalScore>3.68</TotalScore>
+<TasteScore>3.97</TasteScore>
+<ServiceScore>3.33</ServiceScore>
+<MoodScore>3.13</MoodScore>
+<Situation>友人・同僚と、デート、一人で</Situation>
+<DinnerPrice>￥1,000 ～￥1,999</DinnerPrice>
+<LunchPrice>￥1,000 ～￥1,999</LunchPrice>
+<Category>ハンバーガー、サンドイッチ</Category>
+<Station>水道橋</Station>
+<Address>千代田区三崎町1-4-8 １Ｆ</Address>
+<Tel>03-3291-4102</Tel>
+<BusinessHours>[月～金]
+11:00～14:30(LO)
+17:00～21:00(LO)
+[土]
+11:30～17:30(LO)</BusinessHours>
+<Holiday>日曜・祝日</Holiday>
+<Latitude>35.7011484456692</Latitude>
+<Longitude>139.755708168499</Longitude>
+</Item>
+<Item>
+<Rcd>13032023</Rcd>
+<RestaurantName>SAPANA</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13032023/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13032023/</TabelogMobileUrl>
+<TotalScore>3.58</TotalScore>
+<TasteScore>3.58</TasteScore>
+<ServiceScore>3.69</ServiceScore>
+<MoodScore>3.26</MoodScore>
+<Situation>友人・同僚と</Situation>
+<DinnerPrice>￥2,000 ～￥2,999</DinnerPrice>
+<LunchPrice>￥1,000 ～￥1,999</LunchPrice>
+<Category>ネパール料理、インド料理、インドカレー</Category>
+<Station>水道橋</Station>
+<Address>千代田区三崎町2-11-12 アイロン三崎町　Ｂ１Ｆ</Address>
+<Tel>03-3512-3970</Tel>
+<BusinessHours>11:00～23:00</BusinessHours>
+<Holiday>無休</Holiday>
+<Latitude>35.7011300906325</Latitude>
+<Longitude>139.75409882522</Longitude>
+</Item>
+<Item>
+<Rcd>13019986</Rcd>
+<RestaurantName>仕事馬</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13019986/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13019986/</TabelogMobileUrl>
+<TotalScore>3.54</TotalScore>
+<TasteScore>3.52</TasteScore>
+<ServiceScore>3.48</ServiceScore>
+<MoodScore>3.63</MoodScore>
+<Situation>友人・同僚と、デート</Situation>
+<DinnerPrice>￥4,000 ～￥4,999</DinnerPrice>
+<LunchPrice> ～￥999</LunchPrice>
+<Category>ダイニングバー、馬肉料理</Category>
+<Station>水道橋</Station>
+<Address>千代田区三崎町2-17-5 稲葉ビル　１Ｆ</Address>
+<Tel>03-3511-2680</Tel>
+<BusinessHours>[月～金]
+11:30～14:00(L.O)
+17:30～24:00
+[土・祝]
+17:00～24:00</BusinessHours>
+<Holiday>日曜日</Holiday>
+<Latitude>35.7012664449236</Latitude>
+<Longitude>139.753207537403</Longitude>
+</Item>
+<Item>
+<Rcd>13019265</Rcd>
+<RestaurantName>天下一品 水道橋店</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13019265/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13019265/</TabelogMobileUrl>
+<TotalScore>3.54</TotalScore>
+<TasteScore>3.84</TasteScore>
+<ServiceScore>2.98</ServiceScore>
+<MoodScore>3.0</MoodScore>
+<Situation>友人・同僚と、一人で</Situation>
+<DinnerPrice> ～￥999</DinnerPrice>
+<LunchPrice> ～￥999</LunchPrice>
+<Category>ラーメン</Category>
+<Station>水道橋、飯田橋</Station>
+<Address>千代田区三崎町3-7-13 田中ビル　１Ｆ</Address>
+<Tel>03-3261-8781</Tel>
+<BusinessHours>11:00～翌3:00</BusinessHours>
+<Holiday>日曜日</Holiday>
+<Latitude>35.7014433515978</Latitude>
+<Longitude>139.752128452216</Longitude>
+</Item>
+<Item>
+<Rcd>13000253</Rcd>
+<RestaurantName>とんがらし</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13000253/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13000253/</TabelogMobileUrl>
+<TotalScore>3.44</TotalScore>
+<TasteScore>3.38</TasteScore>
+<ServiceScore>3.37</ServiceScore>
+<MoodScore>2.9</MoodScore>
+<Situation>一人で</Situation>
+<DinnerPrice> ～￥999</DinnerPrice>
+<LunchPrice> ～￥999</LunchPrice>
+<Category>天ぷら、そば、うどん</Category>
+<Station>水道橋、九段下</Station>
+<Address>千代田区三崎町3-2-10 </Address>
+<Tel>03-3234-1610</Tel>
+<BusinessHours>[月～金]
+10:30～15:00
+16:45～19:00
+[土]
+9:30～14:30</BusinessHours>
+<Holiday>日曜・祝日の土曜・月曜</Holiday>
+<Latitude>35.6998165911817</Latitude>
+<Longitude>139.752702646088</Longitude>
+</Item>
+<Item>
+<Rcd>13019447</Rcd>
+<RestaurantName>海南鶏飯</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13019447/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13019447/</TabelogMobileUrl>
+<TotalScore>3.42</TotalScore>
+<TasteScore>3.5</TasteScore>
+<ServiceScore>3.02</ServiceScore>
+<MoodScore>3.03</MoodScore>
+<Situation>友人・同僚と、一人で</Situation>
+<DinnerPrice>￥3,000 ～￥3,999</DinnerPrice>
+<LunchPrice> ～￥999</LunchPrice>
+<Category>東南アジア料理（その他）、カレー（その他）</Category>
+<Station>水道橋、神保町</Station>
+<Address>千代田区三崎町2-1-1 美幸ビル　２Ｆ</Address>
+<Tel>03-3264-7218</Tel>
+<BusinessHours>[月～金]
+11:45～14:30 17:00～23:45(L.O.23:00)
+[土・日・祝]
+12:00～23:00(L.O.22:30)</BusinessHours>
+<Holiday>無休</Holiday>
+<Latitude>35.6998291441535</Latitude>
+<Longitude>139.755812109497</Longitude>
+</Item>
+<Item>
+<Rcd>13042331</Rcd>
+<RestaurantName>たこ坊</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13042331/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13042331/</TabelogMobileUrl>
+<TotalScore>3.35</TotalScore>
+<TasteScore>3.46</TasteScore>
+<ServiceScore>3.35</ServiceScore>
+<MoodScore>3.24</MoodScore>
+<Situation>友人・同僚と、一人で</Situation>
+<DinnerPrice> ～￥999</DinnerPrice>
+<LunchPrice> ～￥999</LunchPrice>
+<Category>たこ焼き</Category>
+<Station>水道橋</Station>
+<Address>文京区後楽1-1-18 1F</Address>
+<Tel>03-5689-2877</Tel>
+<BusinessHours></BusinessHours>
+<Holiday></Holiday>
+<Latitude>35.7022794219676</Latitude>
+<Longitude>139.754915682243</Longitude>
+</Item>
+<Item>
+<Rcd>13007554</Rcd>
+<RestaurantName>レトロ家</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13007554/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13007554/</TabelogMobileUrl>
+<TotalScore>3.34</TotalScore>
+<TasteScore>3.32</TasteScore>
+<ServiceScore>3.11</ServiceScore>
+<MoodScore>3.41</MoodScore>
+<Situation>友人・同僚と、一人で</Situation>
+<DinnerPrice>￥1,000 ～￥1,999</DinnerPrice>
+<LunchPrice> ～￥999</LunchPrice>
+<Category>西洋各国料理（その他）、居酒屋</Category>
+<Station>水道橋</Station>
+<Address>千代田区三崎町2-9-5 </Address>
+<Tel>03-3515-7280</Tel>
+<BusinessHours>11:00～14:00 16:00～23:00</BusinessHours>
+<Holiday>日曜・祝日</Holiday>
+<Latitude>35.7007773588656</Latitude>
+<Longitude>139.75482742539</Longitude>
+</Item>
+<Item>
+<Rcd>13049670</Rcd>
+<RestaurantName>つけ麺生粋 四日坊主 水道橋店</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13049670/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13049670/</TabelogMobileUrl>
+<TotalScore>3.33</TotalScore>
+<TasteScore>3.35</TasteScore>
+<ServiceScore>3.03</ServiceScore>
+<MoodScore>2.84</MoodScore>
+<Situation>友人・同僚と、一人で</Situation>
+<DinnerPrice> ～￥999</DinnerPrice>
+<LunchPrice> ～￥999</LunchPrice>
+<Category>つけ麺、ラーメン</Category>
+<Station>水道橋</Station>
+<Address>千代田区三崎町2-11-11 タカギビル　１Ｆ</Address>
+<Tel>03-3556-5447</Tel>
+<BusinessHours>[月～金]
+11:30～15:00
+16:30～22:00
+[土・日・祝]
+11:30～15:00
+16:30～21:00</BusinessHours>
+<Holiday>無休</Holiday>
+<Latitude>35.7011620252573</Latitude>
+<Longitude>139.753986644177</Longitude>
+</Item>
+<Item>
+<Rcd>13035201</Rcd>
+<RestaurantName>伊のマタギ</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13035201/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13035201/</TabelogMobileUrl>
+<TotalScore>3.32</TotalScore>
+<TasteScore>3.23</TasteScore>
+<ServiceScore>3.36</ServiceScore>
+<MoodScore>3.59</MoodScore>
+<Situation>友人・同僚と、デート、一人で</Situation>
+<DinnerPrice>￥6,000 ～￥7,999</DinnerPrice>
+<LunchPrice>￥1,000 ～￥1,999</LunchPrice>
+<Category>和食（その他）、ろばた焼き</Category>
+<Station>水道橋</Station>
+<Address>千代田区三崎町2-16-5 堀越ビル １Ｆ</Address>
+<Tel>03-3239-6165</Tel>
+<BusinessHours>[月～金]
+11:30～14:00
+17:30～24:00
+[土]
+17:30～24:00</BusinessHours>
+<Holiday>日・祝</Holiday>
+<Latitude>35.7010884104879</Latitude>
+<Longitude>139.753326424617</Longitude>
+</Item>
+<Item>
+<Rcd>13036382</Rcd>
+<RestaurantName>BAR洋酒堂 水道橋本店</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13036382/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13036382/</TabelogMobileUrl>
+<TotalScore>3.29</TotalScore>
+<TasteScore>3.0</TasteScore>
+<ServiceScore>3.23</ServiceScore>
+<MoodScore>3.23</MoodScore>
+<Situation>友人・同僚と、一人で</Situation>
+<DinnerPrice>￥3,000 ～￥3,999</DinnerPrice>
+<LunchPrice></LunchPrice>
+<Category>ダイニングバー</Category>
+<Station>水道橋</Station>
+<Address>千代田区三崎町2-10-5 木下ビル　Ｂ１Ｆ</Address>
+<Tel>03-3261-1157</Tel>
+<BusinessHours>17:00～23:30</BusinessHours>
+<Holiday>年末年始</Holiday>
+<Latitude>35.7013967182816</Latitude>
+<Longitude>139.753879431164</Longitude>
+</Item>
+<Item>
+<Rcd>13041752</Rcd>
+<RestaurantName>ぽっぽっ屋 水道橋店</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13041752/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13041752/</TabelogMobileUrl>
+<TotalScore>3.27</TotalScore>
+<TasteScore>3.35</TasteScore>
+<ServiceScore>3.5</ServiceScore>
+<MoodScore>3.09</MoodScore>
+<Situation>友人・同僚と、一人で</Situation>
+<DinnerPrice> ～￥999</DinnerPrice>
+<LunchPrice> ～￥999</LunchPrice>
+<Category>ラーメン、つけ麺</Category>
+<Station>水道橋</Station>
+<Address>千代田区三崎町2-21-11 </Address>
+<Tel>03-5211-8556</Tel>
+<BusinessHours>[月～金] 11:00～15:00 17:30～21:00 [土] 11:00～15:00</BusinessHours>
+<Holiday>日曜・祝日</Holiday>
+<Latitude>35.7014994834713</Latitude>
+<Longitude>139.753660822368</Longitude>
+</Item>
+<Item>
+<Rcd>13050546</Rcd>
+<RestaurantName>太陽のトマト麺 水道橋店</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13050546/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13050546/</TabelogMobileUrl>
+<TotalScore>3.26</TotalScore>
+<TasteScore>3.27</TasteScore>
+<ServiceScore>2.91</ServiceScore>
+<MoodScore>2.78</MoodScore>
+<Situation>友人・同僚と、一人で</Situation>
+<DinnerPrice> ～￥999</DinnerPrice>
+<LunchPrice> ～￥999</LunchPrice>
+<Category>ラーメン</Category>
+<Station>水道橋</Station>
+<Address>千代田区三崎町2-17-8 皆川ビル　１Ｆ</Address>
+<Tel>03-3239-4343</Tel>
+<BusinessHours>[月～土]
+11:00～翌1:00
+[日・祝]
+11:00～23:00</BusinessHours>
+<Holiday>無休</Holiday>
+<Latitude>35.7013731004446</Latitude>
+<Longitude>139.753222531251</Longitude>
+</Item>
+<Item>
+<Rcd>13011059</Rcd>
+<RestaurantName>膳菜や 水道橋店</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13011059/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13011059/</TabelogMobileUrl>
+<TotalScore>3.26</TotalScore>
+<TasteScore>3.26</TasteScore>
+<ServiceScore>3.26</ServiceScore>
+<MoodScore>3.51</MoodScore>
+<Situation>友人・同僚と</Situation>
+<DinnerPrice>￥1,000 ～￥1,999</DinnerPrice>
+<LunchPrice>￥1,000 ～￥1,999</LunchPrice>
+<Category>居酒屋</Category>
+<Station>水道橋</Station>
+<Address>千代田区三崎町2-9-2 鶴屋ビル　Ｂ１Ｆ</Address>
+<Tel>03-3222-0886</Tel>
+<BusinessHours>11:00～13:30
+17:00～23:30</BusinessHours>
+<Holiday>日曜日</Holiday>
+<Latitude>35.7008884614794</Latitude>
+<Longitude>139.755021293064</Longitude>
+</Item>
+<Item>
+<Rcd>13044561</Rcd>
+<RestaurantName>Re時屋</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13044561/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13044561/</TabelogMobileUrl>
+<TotalScore>3.26</TotalScore>
+<TasteScore>3.0</TasteScore>
+<ServiceScore>3.26</ServiceScore>
+<MoodScore>3.26</MoodScore>
+<Situation>友人・同僚と、一人で</Situation>
+<DinnerPrice>￥2,000 ～￥2,999</DinnerPrice>
+<LunchPrice></LunchPrice>
+<Category>焼鳥、串焼き</Category>
+<Station>水道橋</Station>
+<Address>千代田区三崎町2-21-9 </Address>
+<Tel>03-5211-8388</Tel>
+<BusinessHours>[月～土]
+11：30～14：30（L.O.14：00）
+17：00～24：00（L.O.23：00）</BusinessHours>
+<Holiday>日・祝</Holiday>
+<Latitude>35.7017296386989</Latitude>
+<Longitude>139.7537648846</Longitude>
+</Item>
+<Item>
+<Rcd>13006436</Rcd>
+<RestaurantName>中華料理太湖飯店 本店</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13006436/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13006436/</TabelogMobileUrl>
+<TotalScore>3.24</TotalScore>
+<TasteScore>3.29</TasteScore>
+<ServiceScore>3.21</ServiceScore>
+<MoodScore>3.21</MoodScore>
+<Situation>友人・同僚と、一人で</Situation>
+<DinnerPrice>￥2,000 ～￥2,999</DinnerPrice>
+<LunchPrice> ～￥999</LunchPrice>
+<Category>中華料理、上海料理</Category>
+<Station>水道橋</Station>
+<Address>千代田区三崎町2-10-12 太湖ビル　１Ｆ・２Ｆ</Address>
+<Tel>03-3261-5831</Tel>
+<BusinessHours>[月～金]
+11:30～14:30
+17:30～22:00
+[土]
+11:30～14:30</BusinessHours>
+<Holiday>日曜・祝日</Holiday>
+<Latitude>35.701286739564</Latitude>
+<Longitude>139.754297168202</Longitude>
+</Item>
+<Item>
+<Rcd>13024854</Rcd>
+<RestaurantName>庄や 分家店</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13024854/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13024854/</TabelogMobileUrl>
+<TotalScore>3.24</TotalScore>
+<TasteScore>3.24</TasteScore>
+<ServiceScore>3.38</ServiceScore>
+<MoodScore>3.15</MoodScore>
+<Situation>友人・同僚と、宴会</Situation>
+<DinnerPrice>￥3,000 ～￥3,999</DinnerPrice>
+<LunchPrice></LunchPrice>
+<Category>居酒屋</Category>
+<Station>水道橋、飯田橋</Station>
+<Address>千代田区三崎町3-8-4 江戸川ビル　１Ｆ</Address>
+<Tel>03-3261-7305</Tel>
+<BusinessHours>11:30～14:00
+16:30～23:00</BusinessHours>
+<Holiday>無休</Holiday>
+<Latitude>35.7019705088129</Latitude>
+<Longitude>139.751634857828</Longitude>
+</Item>
+<Item>
+<Rcd>13046729</Rcd>
+<RestaurantName>肉そば 玄丸</RestaurantName>
+<TabelogUrl>http://r.tabelog.com/tokyo/A1310/A131003/13046729/</TabelogUrl>
+<TabelogMobileUrl>http://m.tabelog.com/tokyo/A1310/A131003/13046729/</TabelogMobileUrl>
+<TotalScore>3.23</TotalScore>
+<TasteScore>3.2</TasteScore>
+<ServiceScore>3.1</ServiceScore>
+<MoodScore>3.24</MoodScore>
+<Situation>一人で</Situation>
+<DinnerPrice> ～￥999</DinnerPrice>
+<LunchPrice> ～￥999</LunchPrice>
+<Category>そば</Category>
+<Station>水道橋</Station>
+<Address>千代田区三崎町2-18-6 村上ビル1F </Address>
+<Tel>03-3222-5415</Tel>
+<BusinessHours></BusinessHours>
+<Holiday></Holiday>
+<Latitude>35.7012776386989</Latitude>
+<Longitude>139.752645884597</Longitude>
+</Item>
+</RestaurantInfo>
+			

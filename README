@@ -1,8 +1,8 @@
-Welcome to your Appcelerator Titanium Mobile Project
+「Titanium Mobileで開発するiPhone/Androidアプリ」
+第５章サンプルコード "TabeNavi"
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
-
+ビルドに当たってはresources/tabelogapi.js内にある
+食べログAPIアクセスキー情報の書き換えを行ってください。
 
 
 ----------------------------------
